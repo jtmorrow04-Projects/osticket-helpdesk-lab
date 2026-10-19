@@ -31,7 +31,7 @@ Credit is given to the original creator for the installation instructions that s
 ## Screenshots
 
 ### Container Deployment
-![Docker containers running](screenshots/docker-containers.png)
+![Docker containers running](screenshots/docker-container.png)
 
 ### osTicket Client Portal
 ![osTicket client portal](screenshots/osticket-client-portal.png)
