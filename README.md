@@ -13,7 +13,7 @@ This project was initially set up using the following guide:
 - **Guide Creator:** Gilbert Sanchez
 - **Original Guide:** How I Built a Help Desk System for $0 https://www.youtube.com/watch?v=JIMw4Kjp2vg
 
-- Application Architecture
+### Application Architecture
 
 This lab uses a containerized architecture consisting of a web-based help desk application and a database backend.
 
