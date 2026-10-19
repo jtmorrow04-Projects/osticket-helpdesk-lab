@@ -27,3 +27,17 @@ Both services are configured through Docker Compose and run as separate containe
 
 
 Credit is given to the original creator for the installation instructions that served as the foundation for this lab. Any adaptations, additional documentation, troubleshooting notes, and extensions will be documented as the project progresses.
+
+## Screenshots
+
+### Container Deployment
+![Docker containers running](screenshots/docker-containers.png)
+
+### osTicket Client Portal
+![osTicket client portal](screenshots/osticket-client-portal.png)
+
+### Staff Control Panel
+![osTicket staff panel](screenshots/osticket-staff-panel.png)
+
+### Resolved Support Ticket
+![Resolved support ticket](screenshots/resolved-support-ticket.png)
