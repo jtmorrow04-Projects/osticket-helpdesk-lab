@@ -19,7 +19,7 @@ This lab uses a containerized architecture consisting of a web-based help desk a
 
 - **Frontend / Web Application** — osTicket: Provides the user interface for submitting, viewing, and managing IT support tickets. It is accessed locally at http://localhost:8080.
 
-- **Admin / Staff Panel** — osTicket Staff Control Panel: The administrative interface used by help desk staff to manage tickets, review requests, assign work, and configure support workflows. Accessible at [http://localhost:8080/scp](http://localhost:8080/scp/dashboard.php#dept).
+- **Admin / Staff Panel** — osTicket Staff Control Panel: The administrative interface used by help desk staff to manage tickets, review requests, assign work, and configure support workflows. Accessible at [http://localhost:8080/scp](http://localhost:8080/scp/dashboard.php#dept) **username-ostadmin password-Admin1**.
 
 - **Backend / Database*** — MySQL: Stores application data, including ticket and user information, and supports the osTicket application.
 
