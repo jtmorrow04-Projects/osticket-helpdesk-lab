@@ -10,7 +10,7 @@ Planned activities include simulating real-world support tickets involving hardw
 
 This project was initially set up using the following guide:
 
-- **Guide Creator:** [Gilbert Sanchez]
-- **Original Guide:** [(How I Built a Help Desk System for $0)https://www.youtube.com/watch?v=JIMw4Kjp2vg]
+- **Guide Creator:** Gilbert Sanchez
+- **Original Guide:** How I Built a Help Desk System for $0 https://www.youtube.com/watch?v=JIMw4Kjp2vg
 
 Credit is given to the original creator for the installation instructions that served as the foundation for this lab. Any adaptations, additional documentation, troubleshooting notes, and extensions will be documented as the project progresses.
