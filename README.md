@@ -13,4 +13,14 @@ This project was initially set up using the following guide:
 - **Guide Creator:** Gilbert Sanchez
 - **Original Guide:** How I Built a Help Desk System for $0 https://www.youtube.com/watch?v=JIMw4Kjp2vg
 
+- Application Architecture
+
+This lab uses a containerized architecture consisting of a web-based help desk application and a database backend.
+
+Frontend / Web Application — osTicket: Provides the user interface for submitting, viewing, and managing IT support tickets. It is accessed locally at http://localhost:8080.
+
+Backend / Database — MySQL: Stores application data, including ticket and user information, and supports the osTicket application.
+
+Both services are configured through Docker Compose and run as separate containers managed by Docker Desktop.
+
 Credit is given to the original creator for the installation instructions that served as the foundation for this lab. Any adaptations, additional documentation, troubleshooting notes, and extensions will be documented as the project progresses.
