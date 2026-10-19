@@ -1,4 +1,4 @@
-Project Overview
+#### Project Overview
 
 The **IT Help Desk Lab** is a hands-on learning project designed to build practical experience in IT support, systems administration, and IT service management. Using osTicket, Docker Desktop, Docker Compose, and MySQL, this project focuses on setting up a help desk environment and exploring how IT support operations are managed.
 
@@ -22,5 +22,6 @@ Frontend / Web Application — osTicket: Provides the user interface for submitt
 Backend / Database — MySQL: Stores application data, including ticket and user information, and supports the osTicket application.
 
 Both services are configured through Docker Compose and run as separate containers managed by Docker Desktop.
+
 
 Credit is given to the original creator for the installation instructions that served as the foundation for this lab. Any adaptations, additional documentation, troubleshooting notes, and extensions will be documented as the project progresses.
