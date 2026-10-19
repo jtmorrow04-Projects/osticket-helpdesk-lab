@@ -17,9 +17,9 @@ This project was initially set up using the following guide:
 
 This lab uses a containerized architecture consisting of a web-based help desk application and a database backend.
 
-Frontend / Web Application — osTicket: Provides the user interface for submitting, viewing, and managing IT support tickets. It is accessed locally at http://localhost:8080.
-
-Backend / Database — MySQL: Stores application data, including ticket and user information, and supports the osTicket application.
+-Frontend / Web Application — osTicket: Provides the user interface for submitting, viewing, and managing IT support tickets. It is accessed locally at http://localhost:8080.
+-Admin / Staff Panel — osTicket Staff Control Panel: The administrative interface used by help desk staff to manage tickets, review requests, assign work, and configure support workflows. Accessible at http://localhost:8080/scp.
+-Backend / Database — MySQL: Stores application data, including ticket and user information, and supports the osTicket application.
 
 Both services are configured through Docker Compose and run as separate containers managed by Docker Desktop.
 
